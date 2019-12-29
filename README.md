@@ -2,3 +2,4 @@ ClashLand Control Panel 3.1 - [![Build status](https://ci.appveyor.com/api/proje
 [![Build Status](https://dev.azure.com/Antzsmt/CCP/_apis/build/status/CCP?branchName=master)](https://dev.azure.com/Antzsmt/CCP/_build/latest?definitionId=3&branchName=master)
 
 ![GitHub Logo](https://github.com/antzsmt/CCP3/blob/master/CCP3_1.PNG)
+![Image alt text](https://snipboard.io/7fYPxE.jpg)
