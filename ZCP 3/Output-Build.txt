@@ -1,0 +1,3 @@
+﻿1>------ Rebuild All started: Project: ZCP 3, Configuration: Release Any CPU ------
+1>  ZCP 3 -> C:\Users\Antz\Desktop\Zaxers Control Panel\ZCP-master\ZCP 3\ZCP 3.1\bin\Release\CCP 3.1.exe
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
